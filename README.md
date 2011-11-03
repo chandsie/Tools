@@ -4,5 +4,5 @@ This is a collection of small scripts and tools I have written for a variety of 
 
 Currently the following are available:
 
-+ watermarker.bat: 
- + Windows batchfile that uses imagemagick to place a watermark on all jpegs in the current directory
++ watermarker.bat
+ + Windows batch file that uses imagemagick to place a watermark on all jpegs in the current directory
